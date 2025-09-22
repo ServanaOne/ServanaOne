@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://fs3zrl3r-5500.inc1.devtunnels.ms/Servana%20One.svg" alt="Servana One Logo" width="200"/>
+  <img src="https://servanaone.github.io/Servana-One/Servana%20One.svg" alt="Servana One Logo" width="200"/>
 </p>
 
 <h1 align="center">Servana One</h1>

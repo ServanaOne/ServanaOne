@@ -8,7 +8,7 @@
 
 ![ServanaOne Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D4AA&center=true&vCenter=true&width=700&lines=ServanaOne;Affordable+%2B+High+Quality;Hardware+%E2%80%A2+Software+%E2%80%A2+IoT;Your+Budget%2C+Our+Excellence)
 
-[![Portfolio](https://img.shields.io/badge/💼_Portfolio-View_Work-00D4AA?style=for-the-badge)](#) <p align="center">
+[![Portfolio](https://img.shields.io/badge/💼_Portfolio-View_Work-00D4AA?style=for-the-badge)](https://servanaone.github.io/Servana-One/) <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ServanaOne&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
